@@ -1,0 +1,1 @@
+Spines & Wines pairs books with various wine options to help the reader settle into a new book. Spines & Wines gives users the ability to search books, to view a list of books in the collection, add books to the collection, edit book information and delete books stored in the book collection

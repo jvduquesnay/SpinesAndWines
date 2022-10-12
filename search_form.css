@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+th {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.col-12.mt-4 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+#footer {
+    height: 300px;
+    background-image: url("images/spinewine2.png");
+    background-size: 100%;
+    background-color: rgb(228, 170, 170);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+
+.breadcrumb {
+    background-color: white;
+}
+
+body {
+    background-color: rgb(240, 233, 233);
+    color: black;
+}
+
+form .form-control::-webkit-input-placeholder { 
+    color: white;
+  }
+  
+  form .form-control::-moz-placeholder {
+    color: white;
+  }
+  form .form-control:-ms-input-placeholder {
+    color: white;
+  }
+  form .form-control:placeholder {
+    color: white;
+  }
+
+
